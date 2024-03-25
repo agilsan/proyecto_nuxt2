@@ -2,6 +2,7 @@ import colors from 'vuetify/es5/util/colors'
 import es from 'vuetify/src/locale/es.ts'
 
 export default {
+  ssr: false,
   /*
   ** Headers of the page
   */
